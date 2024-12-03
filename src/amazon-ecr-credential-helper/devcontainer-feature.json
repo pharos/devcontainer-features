@@ -1,0 +1,6 @@
+{
+    "id": "amazon-ecr-credential-helper",
+    "name": "Amazon ECR credential helper",
+    "version": "1.0.0",
+    "description": "A feature to install the amazon-ecr-credential-helper"
+}

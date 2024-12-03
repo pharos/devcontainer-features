@@ -1,0 +1,16 @@
+{
+    "id": "aws-iam-authenticator",
+    "name": "AWS IAM Authenticator",
+    "version": "1.0.0",
+    "description": "A feature to install the aws-iam-authenticator",
+    "options": {
+        "version": {
+            "type": "string",
+            "proposals": [
+                "latest"
+            ],
+            "default": "latest",
+            "description": "Specify the aws-iam-authenticator CLI version to install; or \"latest\""
+        }
+    }
+}
